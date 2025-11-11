@@ -16,3 +16,4 @@ print(thislist)      #['apple', 'blackcurrant', 'watermelon', 'cherry']
 thislist = ["apple", "banana", "cherry"]
 thislist[1:3] = ["watermelon"]
 print(thislist)      #['apple', 'watermelon']
+
